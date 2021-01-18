@@ -1,10 +1,10 @@
-#Gmeet-bot
+# Gmeet-bot
 ## Requirements
   -Python
   -Selenium
   -Schedule
 ---------------------
-##download requirements
+## download requirements
 
 
 [Download Python](https://www.python.org/)
