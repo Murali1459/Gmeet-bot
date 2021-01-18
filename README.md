@@ -1,14 +1,14 @@
 #Gmeet-bot
 ## Requirements
-  *Python
-  *Selenium
-  *Schedule
+  -Python
+  -Selenium
+  -Schedule
 ---------------------
 ##download requirements
 [Download Python](https://www.python.org/)
-'''python
+```python
 pip install selenium
-'''
-'''python
+```
+```python
 pip install schedule
-'''
+```
