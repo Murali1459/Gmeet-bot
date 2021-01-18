@@ -8,7 +8,7 @@
 ## download requirements
 
 
-[Download Python](https://www.python.org/)
+[Download Python by here](https://www.python.org/)
 
 To install selenium use
 ```python
