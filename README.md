@@ -1,8 +1,9 @@
 # Gmeet-bot
 ## Requirements
-  -Python
-  -Selenium
-  -Schedule
+ -Python
+ -Selenium
+ -Schedule
+ 
 ---------------------
 ## download requirements
 
