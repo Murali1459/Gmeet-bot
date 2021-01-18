@@ -5,7 +5,7 @@
  - Schedule
  
 ---------------------
-## download requirements
+## Instruction to download requirements
 
 
 [Download Python by here](https://www.python.org/)
